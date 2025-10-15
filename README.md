@@ -17,6 +17,7 @@ The initial phase focuses on vendor contract tracking and management, providing 
 - Centralized contract repository
 - Contract lifecycle management
 - Agreement terms tracking
+- Program/event tracking and progress monitoring
 - Financial integration and reporting
 
 ## Core Modules
@@ -41,14 +42,28 @@ Export financial data related to vendor agreements for accounting integration:
 - **Period-based Reporting**: Generate exports for specific accounting periods
 - **Integration Ready**: Designed to integrate with popular accounting systems
 
+### 3. Program Tracking & Reporting
+
+Track and report on programs, events, and promotional activities tied to vendor agreements:
+
+- **Program Management**: Create and manage programs/events associated with agreements
+- **Timeline Tracking**: Monitor program start dates, end dates, and milestones
+- **Progress Monitoring**: Real-time visibility into program status and completion
+- **Custom Reporting**: Generate reports tailored to business needs
+- **Performance Metrics**: Track key performance indicators for each program
+- **Event Calendar**: Visualize program schedules and upcoming events
+- **Stakeholder Visibility**: Provide business users with actionable insights
+
 ## Roadmap
 
 ### Phase 1 (Current)
 - ✅ Core agreement management framework
 - ✅ Vendor contract tracking
 - ✅ GL export functionality
+- ✅ Program/event tracking and management
+- 🔄 Program progress reporting and analytics
 - 🔄 User authentication and authorization
-- 🔄 Basic reporting and analytics
+- 🔄 Dashboard and visualizations
 
 ### Phase 2 (Planned)
 - Lease management for landlord agreements
